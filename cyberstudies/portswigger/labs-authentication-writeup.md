@@ -3,7 +3,8 @@
 **Plataforma:** PortSwigger Web Security Academy  
 **Módulo:** Authentication  
 **Labs:** 14 concluídos  
-**Contexto:** Atividade de mentoria em segurança ofensiva web
+
+<img width="413" height="765" alt="image" src="https://github.com/user-attachments/assets/b5af5f78-2529-4e32-94b9-1161bccfd401" />
 
 ---
 
