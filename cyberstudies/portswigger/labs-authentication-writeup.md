@@ -3,7 +3,6 @@
 **Plataforma:** PortSwigger Web Security Academy  
 **Módulo:** Authentication  
 **Labs:** 14 concluídos  
-**Data:** Maio 2026  
 **Contexto:** Atividade de mentoria em segurança ofensiva web
 
 ---
@@ -240,5 +239,3 @@ A mensagem `New passwords do not match` é o oráculo: confirma senha atual corr
 | Host header confiável | Nunca usar headers do cliente para gerar URLs |
 
 ---
-
-*PortSwigger Web Security Academy — Authentication (14/14) · Maio 2026*
